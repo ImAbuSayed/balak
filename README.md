@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور الليل ينادي قلبي
+> في عينيك سحر يخفي دمعي
+> روحك في الظلام تضيء دربي
+> همس الروح يلامس نبضي
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
