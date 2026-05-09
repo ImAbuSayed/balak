@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Balak
+
+This log tracks the cryptographic history and versioning for the song **Balak** (balak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:48:06.748115 | `v1` | `29c535e0104e417ae3c6294440d9974e2b13167daaf413d315a0b537c49c8fd8` | `e62137ad4514459403cb821e86c6f30a388202f8e92f904ff7e5ed8a1891ef87` | `2026-05-09_balak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
